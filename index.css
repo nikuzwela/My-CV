@@ -247,9 +247,10 @@ width: 65%; }}
 .resu-temple p{
     font-size: 20px;
 }
-.info i{
+.info a i{
     padding-top: 10px;
     font-size: 17px;
+    color: whitesmoke;
 }
 .info{
    padding-top: 30px;
